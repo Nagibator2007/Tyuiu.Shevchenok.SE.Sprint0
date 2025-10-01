@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyiuiu.ShevchenokSE.Sprint0.Task0.V0", "Tyiuiu.ShevchenokSE.Sprint0.Task0.V0\Tyiuiu.ShevchenokSE.Sprint0.Task0.V0.csproj", "{7A7C3C78-1003-44C9-A366-A0F4A4B6F8DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task1", "task1", "{E9557263-15DD-446D-B08B-910994B1BB4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShevchenokSE.Sprint1.Task1.V0", "Tyuiu.ShevchenokSE.Sprint1.Task1\Tyuiu.ShevchenokSE.Sprint1.Task1.V0.csproj", "{2F60FE27-4991-4264-A8AB-A7800A16E039}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{7A7C3C78-1003-44C9-A366-A0F4A4B6F8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A7C3C78-1003-44C9-A366-A0F4A4B6F8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A7C3C78-1003-44C9-A366-A0F4A4B6F8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F60FE27-4991-4264-A8AB-A7800A16E039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F60FE27-4991-4264-A8AB-A7800A16E039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F60FE27-4991-4264-A8AB-A7800A16E039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F60FE27-4991-4264-A8AB-A7800A16E039}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{7A7C3C78-1003-44C9-A366-A0F4A4B6F8DD} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{2F60FE27-4991-4264-A8AB-A7800A16E039} = {E9557263-15DD-446D-B08B-910994B1BB4A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9967D56A-2E16-46D7-92AF-76C207888FAE}
